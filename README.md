@@ -21,8 +21,6 @@ My goal is to examine the effects of Wildlife Strikes. What type of wildlife has
 5. I also created a forecast on the number of strikes and the cost of damages. This will be the forecast if the airport and airlines do not improve on preventative measures. 
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
-
 I choose Option 2 and the FAA Wildlife Strikes, 2015 database.
 
 I choose the 4 questions and reviewed 1 outlier: 
